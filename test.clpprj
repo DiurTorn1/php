@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="/var/www/html/test/test.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost//test]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost//test]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <file name="/var/www/html/test/index.php"/>
+  <file name="/var/www/html/test/connect.php"/>
+  <file name="/var/www/html/test/public/style.css"/>
+  <file name="/var/www/html/test/func/login.php"/>
+  <file name="/var/www/html/test/func/logout.php"/>
+  <file name="/var/www/html/test/func/registr.php"/>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <errors version="1.3"/>
+ <cakedata/>
+ <dplmenupath/>
+ <laravael/>
+ <smartyassings/>
+ <twigtemplate/>
+ <yiidata/>
+ <todoblock/>
+ <dbgurls/>
+ <filescache>
+  <file name="/var/www/html/test/public/style.css" crc="1599407425154"/>
+  <file name="/var/www/html/test/func/registr.php" crc="1599396589587"/>
+  <file name="/var/www/html/test/func/logout.php" crc="1599393584248"/>
+  <file name="/var/www/html/test/func/login.php" crc="1599396589587"/>
+  <file name="/var/www/html/test/index.php" crc="1599410298416"/>
+  <file name="/var/www/html/test/connect.php" crc="1599322916026"/>
+ </filescache>
+</project>

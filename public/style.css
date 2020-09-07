@@ -1,0 +1,43 @@
+*{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+body {
+	margin: 30px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+input, textarea{
+	width:90%;
+	margin: 5px;
+}
+.comt{
+	
+}
+form{
+	display: flex;
+	flex-direction: column;
+}
+.form-signin{
+	max-width:  400px;
+	padding: 15x;
+	margin: 0 auto;
+}
+.log{
+	text-decoration: none;
+	background-color: #00a6ff;
+	color: #ffffff;
+	margin: 10px;
+	float: right;
+}
+.regi{
+	text-decoration: none;
+	background-color: #00a6ff;
+	color: #ffffff;
+	margin: 10px;
+	float: right;
+}
+.usn{
+	margin: 10px;
+	float: right;
+}
